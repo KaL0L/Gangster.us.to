@@ -112,9 +112,6 @@ input:checked + label .description {
 .card[for="c2"] {
     background-image: url('2.png');
 }
-.card[for="c3"] {
-    background-image: url();
-}
 .card[for="c4"] {
     background-image: url('4.png');
 }
